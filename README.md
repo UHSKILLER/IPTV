@@ -1,1 +1,98 @@
-# IPTV
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="aaa" group-title="TV Aberta",[COLOR steelblue][I][B]» » TV ABERTA « «[/B][/I][/COLOR]
+
+https://0.0.0.0
+
+#EXTINF:-1 tvg-id=""tvg-name="IPTV" tvg-logo="https://ibb.co/GTdqMSG" group-title="SOBRE",João Witor IPTV
+
+https://youtube.com/playlist?list=PL_Q15fKxrBb5pckIW2RHwZbgf-FwRiCWr
+
+#EXTINF:-1 tvg-id=""tvg-name="SBT" tvg-logo="https://megacam.xyz/img/canais/webp/sbt.webp" group-title="TV Aberta",SBT
+
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=""tvg-name="Record" tvg-logo="https://megacam.xyz/img/canais/webp/record.webp" group-title="TV Aberta",Record
+
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=""tvg-name="RedeTV" tvg-logo="https://megacam.xyz/img/canais/webp/redetv.webp" group-title="TV Aberta",RedeTV
+
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-name="TVDIARIO" tvg-logo="https://megacam.xyz/img/canais/webp/tvdiario.webp" group-title="TV Aberta",TVDIARIO
+
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQWJWML1L2hRmvhRG06wzM4)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e a Pedra Filosofal (1)" tvg-logo="http://meumd.com:80/images/qnw9610ojLT0jU3lMSZOAFttt1e_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e a Pedra Filosofal 1 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121404.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e a Câmara Secreta (2)" tvg-logo="http://meumd.com:80/images/811j0Jf2D0mK1U6RxXJoZgOB29n_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e a Câmara Secreta 2 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121405.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e o Prisioneiro de Azkaban (3)" tvg-logo="http://meumd.com:80/images/1HdMUghqlgOIvbsU9ZtO40IPRzl_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e o Prisioneiro de Azkaban 3 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121406.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e o Cálice de Fogo (4)" tvg-logo="http://meumd.com:80/images/5oWB3hjzyECRBAjgWkmZinxl9qA_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e o Cálice de Fogo 4 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121407.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e a Ordem da Fênix (5)" tvg-logo="http://meumd.com:80/images/tIf9aUyNljda9MG1pjlOLHCZ3b0_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e a Ordem da Fênix 5 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121408.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e o Enigma do Príncipe (6)" tvg-logo="http://meumd.com:80/images/hTQQ5l9mxA3Rob8PTyvrNNGuj6y_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e o Enigma do Príncipe 6 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121409.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e as Relíquias da Morte - Parte 1 (7)" tvg-logo="http://meumd.com:80/images/67FVFOTaeBUQnimhCWpUkDawDct_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e as Relíquias da Morte - Parte 1 7 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121410.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Harry Potter e as Relíquias da Morte - Parte 2 (8)" tvg-logo="http://meumd.com:80/images/yD3VosOVW8WxPUzBDpEdzfv5pGx_big.jpg" group-title="Harry Potter (SAGA)",Harry Potter e as Relíquias da Morte - Parte 2 8 filme
+
+http://meumd.com:80/movie/vilmar123/vilmar321/121411.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes & Furiosos 4" tvg-logo="http://meumd.com:80/images/zvjQPVttJWaCSbzMijyc2x2MLr4_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes & Furiosos 4
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114217.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes & Furiosos 7" tvg-logo="http://meumd.com:80/images/vK3EINuibdkBwUe9jOhVUXtLeb6_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes & Furiosos 7
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114214.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes & Furiosos 8" tvg-logo="http://meumd.com:80/images/38RVo4cX1O7Ia6k9WXcxkxprHm_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes & Furiosos 8
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114213.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos" tvg-logo="http://meumd.com:80/images/fGiLNTHbDyNIY3Fvo96A836UpIy_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114220.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos 5: Operação Rio" tvg-logo="http://meumd.com:80/images/l1lvu5P4xfBicxuhgL0pmvkWReO_big.jpg" group-title="Velozes e furiosos (SAGA)", Velozes e Furiosos 5: Operação Rio
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114216.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos 6" tvg-logo="http://meumd.com:80/images/yeF9WQvxHRrJnr5fGEfnzDpn4pA_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos 6
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114215.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos 9" tvg-logo="http://meumd.com:80/images/8L4Mep3KDUK4ztUgf2HlPvUVzZy_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos 9
+
+http://meumd.com:80/movie/vilmar123/vilmar321/138257.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos 9 4K" tvg-logo="http://meumd.com:80/images/8L4Mep3KDUK4ztUgf2HlPvUVzZy_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos 9 4K
+
+http://meumd.com:80/movie/vilmar123/vilmar321/138256.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos 9 [L]" tvg-logo="http://meumd.com:80/images/8L4Mep3KDUK4ztUgf2HlPvUVzZy_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos 9 [L]
+
+http://meumd.com:80/movie/vilmar123/vilmar321/135289.mp4
+
+#EXTINF:-1 tvg-id=""tvg-name="Velozes e Furiosos: Desafio em Tóquio" tvg-logo="http://meumd.com:80/images/qexEesWpZgxLFlOrm54Sjn3Z7Y0_big.jpg" group-title="Velozes e furiosos (SAGA)",Velozes e Furiosos: Desafio em Tóquio
+
+http://meumd.com:80/movie/vilmar123/vilmar321/114218.mp4
+
