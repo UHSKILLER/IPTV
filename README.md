@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="aaa" group-title="TV Aberta",[COLOR steelblue][I][B]» » TV ABERTA « «[/B][/I][/COLOR]
 
-https://0.0.0.0
 
-#EXTINF:-1 tvg-id=""tvg-name="IPTV" tvg-logo="https://ibb.co/GTdqMSG" group-title="SOBRE",João Witor IPTV
 
-https://youtube.com/playlist?list=PL_Q15fKxrBb5pckIW2RHwZbgf-FwRiCWr
+
 
 #EXTINF:-1 tvg-id=""tvg-name="SBT" tvg-logo="https://megacam.xyz/img/canais/webp/sbt.webp" group-title="TV Aberta",SBT
 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645761760/ei/gAAYYpafJMKrwQSqu57wAg/ip/177.37.158.53/id/ABVQXgr2LW4.4/source/yt_live_broadcast/requiressl/yes/tx/24129501/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALk69UFxIv-vhbHMhxFYTAXpiv1kL7H35dCtQ0sHGkFgAiB2yx9iyYZRtPIK-qqD83QI_4LRt8hTFQ_8Cg8zIxW2yw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="Record" tvg-logo="https://megacam.xyz/img/canais/webp/record.webp" group-title="TV Aberta",Record
 
